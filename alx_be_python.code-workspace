@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../../alx_be_python"
+		},
+		{
+			"name": "Intro_to_DB",
+			"path": "."
+		}
+	],
+	"settings": {
+		"sqltools.connections": [
+			{
+				"mysqlOptions": {
+					"authProtocol": "default",
+					"enableSsl": "Disabled"
+				},
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 3306,
+				"driver": "MariaDB",
+				"name": "TEST",
+				"database": "alx_book_store",
+				"username": "root"
+			}
+		]
+	}
+}
